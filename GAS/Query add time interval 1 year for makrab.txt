@@ -5,3 +5,5 @@ VALUES ('2','Fatah','F62','bantul','A+','2000/01/01',DATE_ADD('2019/08/05', INTE
 /////// Current DATE //////
 
 INSERT INTO anggota VALUES ('3','Oca','OCE','bantul','A+','2000/01/01',DATE_ADD(CURRENT_DATE(), INTERVAL 1 YEAR))
+
+dsdsdsds
